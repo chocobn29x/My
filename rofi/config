@@ -1,0 +1,20 @@
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-window: #2f343f, #2f343f, argb:0f5f6f7
+rofi.color-normal: argb:0000000, #f5f6f7, argb:0000000, #f5f6f7, #2f343f
+rofi.color-active: argb:0000000, #1b6ba8, argb:0000000, #1b6ba8, #f5f6f7
+rofi.color-urgent: argb:0000000, #dc322f, argb:0000000, argb:0dc322f, #fdf6e3
+
+! ------------------------------------------------------------------------------
+! ROFI CONFIGURATION BASE
+!-------------------------------------------------------------------------------
+
+
+rofi.sidebar-mode : false
+rofi.fullscreen : true
+rofi.width : 1280
+rofi.padding : 275
+rofi.font : Sans 30
+!rofi.lines : 3
